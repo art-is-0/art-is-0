@@ -1,6 +1,5 @@
-## Hi there 👋
 <div align="center">
-  <img src="./out.gif" style="width:75%;" align="center">
+  <img src="./out.gif" style="width:100%;" align="center">
 </div>
 <!--
 **art-is-0/art-is-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
